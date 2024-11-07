@@ -4,7 +4,7 @@
 
 ### Project Description
 
-* This project involves migrating AWS Elastic Block Store (EBS) volumes from one region to another. The goal is to seamlessly transfer data and configurations, ensuring minimal downtime and maintaining data integrity. The process includes planning, snapshot creation, volume replication, and final verification to successfully relocate EBS volumes across AWS regions.
+* This project involves migrating AWS Elastic Block Store (EBS) volumes from one region to another. The goal is to seamlessly transfer data and configurations, ensuring minimal downtime and maintaining data integrity. The process includes planning, snapshot creation, volume replication, and final verification to successfully relocate EBS volumes across AWS regions..
 
 ### Architecture
 
